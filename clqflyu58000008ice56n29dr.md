@@ -10,7 +10,7 @@ tags: cloud, aws, cloud-computing, devops, aws-cloud-practitioner
 
 ---
 
-Welcome to Day 1 of our 30-day journey to becoming an AWS Certified Solutions Architect – Associate! 🚀 Today, we're diving into the foundational topic of AWS Global Infrastructure, where we'll explore the geographical regions, availability zones, and understand the significance of these components in designing scalable and resilient cloud architectures. Let's embark on this exciting adventure together! 🌐
+Welcome to Part 1 of our 30-day journey to becoming an [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)! 🚀 Today, we're diving into the foundational topic of AWS Global Infrastructure, where we'll explore the geographical regions, availability zones, and understand the significance of these components in designing scalable and resilient cloud architectures. Let's embark on this exciting adventure together! 🌐
 
 ### **🌐 What is the Cloud?**
 
