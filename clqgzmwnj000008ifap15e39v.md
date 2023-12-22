@@ -5,7 +5,7 @@ seoDescription: "Part 6: Demystifying Amazon Elastic Block Store (EBS): Your Sim
 datePublished: Fri Dec 22 2023 18:51:40 GMT+0000 (Coordinated Universal Time)
 cuid: clqgzmwnj000008ifap15e39v
 slug: part-6-demystifying-amazon-elastic-block-store-ebs-your-simple-guide-to-cloud-storage
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703271417742/fab8fcbc-3e1b-4939-bb80-dbef821858bb.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703271507088/c1e83ddc-983c-4ccb-96b6-b8047c120a56.png
 tags: cloud, aws, cloud-computing, devops, 90daysofdevops, wemakedevs, 9
 
 ---
