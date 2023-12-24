@@ -10,8 +10,6 @@ tags: cloud, aws, cloud-computing, devops, 90daysofdevops, wemakedevs
 
 ---
 
-Welcome back to Day 5 of our AWS Solutions Architect journey! Today, we're diving deeper into Amazon EC2, exploring advanced configurations, and enhancing security for your instances. Let's uncover the power of Elastic Load Balancing and understand crucial security considerations! 👩‍💻👨‍💻
-
 ## **Advanced EC2 Configurations**
 
 ### **Step 1: Explore Elastic Load Balancing (ELB)**
@@ -96,6 +94,6 @@ Consider a scenario where you're processing sensitive data on EC2 instances.
 
 ## **Conclusion**
 
-Congratulations on completing Day 6 of our AWS Solutions Architect journey! Today, you've explored advanced EC2 configurations, implemented Elastic Load Balancing, and enhanced security for your instances. As you continue this 30-day adventure, remember that a well-configured and secure infrastructure is essential for robust and reliable applications. Tomorrow, we'll explore Amazon S3 and other storage solutions. Get ready for more AWS insights! 🚀🔐
+Today, you've explored advanced EC2 configurations, implemented Elastic Load Balancing, and enhanced security for your instances. As you continue this 30-Part adventure, remember that a well-configured and secure infrastructure is essential for robust and reliable applications. Tomorrow, we'll explore Amazon S3 and other storage solutions. Get ready for more AWS insights! 🚀🔐
 
 Stay curious, stay AWSome! 🌟👩‍💻👨‍💻
